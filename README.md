@@ -1,8 +1,8 @@
 # Fork of Legalmattic 
-## Democratizing WordPress
+## Democratizing WordPress and other Business Agreements
 
 ### What is this?
-This is the source of several "legal documents" on WordPress.com, including the Terms of Service. We'd like our legal documents to embody our vision of the spirit of the web--open and accessible.
+This is the source of several "legal documents" on WordPress.com, including the Terms of Service. We'd like our legal documents to embody our vision of the spirit of the web--open and accessible. In addition to Legal documents from Automattic, I have added standard business templates used in legal contracts between vendors, service providers, employees and potential partners. 
 
 ### What can I do with it?
 Since these documents are licensed under a Creative Commons license (see below for more information), please feel free to re-use and edit these terms to fit your own use. We do ask for a link back so we can help share the source of this license and spread the word further.
