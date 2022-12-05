@@ -1,5 +1,6 @@
-# Fork of Legalmattic 
-## Democratizing WordPress and other Business Agreements
+# LegalScribal 
+## -scribble fork of Legalmattic  
+## A compilation legal documents drafted by team at WordPress and Automattic Inc. + I have added general business contracts writeups (premium templates) made available for all for free.  
 
 ### What is this?
 This is the source of several "legal documents" on WordPress.com, including the Terms of Service. We'd like our legal documents to embody our vision of the spirit of the web--open and accessible. In addition to Legal documents from Automattic, I have added standard business templates used in legal contracts between vendors, service providers, employees and potential partners. 
