@@ -1,18 +1,17 @@
 # EMPLOYMENT AGREEMENT
-This EMPLOYMENT AGREEMENT (Hereinafter, the “Agreement”) is entered into on this __ day of ______, 2019 (herein after referred to as "Effective Date"), 
-BY AND BETWEEN
-_______, a company, incorporated under the _______ having its registered office at _________ (hereinafter referred to as the “Company” or “Employer”, which expression shall, unless repugnant to the meaning or context hereof, be deemed to include all permitted successors and assigns), 
+This EMPLOYMENT AGREEMENT (Hereinafter, the “Agreement”) is entered into on this __ day of ______, 2023 (herein after referred to as "Effective Date"),
+BY AND BETWEEN Linguistics Labs India Pvt. Ltd., a company, incorporated under the Companies Act, 2013 (18 of 2013) having its registered office at 86 Laxmidwar CHS, 8 Ram Nivas, III Street, Paranjpe B Scheme, VILEPARLE (E), MUMBAI, Maharashtra, India, 400057 (hereinafter referred to as the “Company” or “Employer”, which expression shall, unless repugnant to the meaning or context hereof, be deemed to include all permitted successors and assigns), 
 AND
 Mr. _____ son of ______ aged __ years and residing at _______ (Hereinafter referred to as the "Employee", which expression shall, unless repugnant to the meaning or context hereof, be deemed to include all permitted successors and assigns). 
 
-WHEREAS, the Company is engaged in the business of ________.
+WHEREAS, the Company is engaged in the business of Computational Linguistics and Technology Consulting.
 WHEREAS, the parties hereto desire to enter into this Agreement to define and set forth the terms and conditions of the employment of the Employee by the Company;
 NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth below, it is hereby covenanted and agreed by the Company and the Employee as follows:
 1.	EMPLOYMENT 
-a)	This Agreement sets out the terms of employment of the Employee and the duration of this agreement shall be for a period of ___ from the Effective date of the Agreement. The Employee has been appointed as the _____ of the Company.
+a)	This Agreement sets out the terms of employment of the Employee and the duration of this agreement shall be for a period of ___ from the Effective date of the Agreement. The Employee has been appointed as the *"designation"* of the Company.
 b)	The Employee will be required to carry out all duties which are normally associated with employment in this position along with those duties which may be prescribed by the Employer. 
 2.	TERM AND PROBATION PERIOD
-a)	The Employee agrees that the first ____ of his employment shall be constituted as probationary period (“Probationary Period”), a period during which, the Employer may, in its absolute discretion, terminate the Employee's employment, for any reason without notice or cause. 
+a)	The Employee agrees that the first *three months* of his employment shall be constituted as probationary period (“Probationary Period”), a period during which, the Employer may, in its absolute discretion, terminate the Employee's employment, for any reason without notice or cause. 
 b)	After the end of the Probationary Period, this Agreement may be terminated in accordance with Clause 10 of this Agreement. 
 3.	PERFORMANCE OF DUTIES 
 a)	The Employee agrees that during the Employment Period, he/she shall devote his/her full business time to the business affairs of the Company and shall perform the duties assigned to him/her faithfully and efficiently, and shall endeavor, to the best of his/her abilities to achieve the goals and adhere to the parameters set by the Company from time to time. 
@@ -45,7 +44,7 @@ The Employer and the Employee may terminate this Agreement and the employment of
 This Agreement shall be governed by and construed in accordance with the laws of India. 
 12.	NOTICES
 a)	Any notice or other communication required or which may be given hereunder shall be in writing.
-b)	Dispute Resolution and Jurisdiction: The Parties agree to first mediate any disputes or claims between them in good faith and resolve the disputes amicably and share the cost of mediation equally. In the event that mediation fails, any claim arising out of or relating to this Agreement shall be resolved by reference to the court of competent jurisdiction over the subject matter of the dispute. The Parties hereby agree to submit themselves to the exclusive jurisdiction of the courts in ________, India.
+b)	Dispute Resolution and Jurisdiction: The Parties agree to first mediate any disputes or claims between them in good faith and resolve the disputes amicably and share the cost of mediation equally. In the event that mediation fails, any claim arising out of or relating to this Agreement shall be resolved by reference to the court of competent jurisdiction over the subject matter of the dispute. The Parties hereby agree to submit themselves to the exclusive jurisdiction of the courts in Mumbai, Maharashtra, India.
 
 IN WITNESS WHEREOF the parties hereto have executed this Agreement on the date first set out above:
 
@@ -53,7 +52,9 @@ For ______
 
 Signature: _______________
 Name: 
-Date: ___________________	For the Employee
+Date: ___________________	
+
+For the Employee
 
 
 Signature: _______________
